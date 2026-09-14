@@ -207,8 +207,8 @@ It is not a certified medical diagnostic system and must not be used as a substi
 
 ## Author
 
-Ali Saeed 
+Ali Saeed Dubai
 
 GitHub:
 
-https://github.com/Ali-Get
+https://github.com/shadow-601
